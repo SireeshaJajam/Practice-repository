@@ -1,2 +1,2 @@
-Consistency will give you success.
+Am learning git command for revert
 
