@@ -1,0 +1,1 @@
+This is practcie session on MAY 31 on git commands.
